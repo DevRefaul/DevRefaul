@@ -1,6 +1,9 @@
 ### <h1 align="center">Hi, I am MD.Refaul Islam</h1>
 
-### <p align="center">Frontend Developer - React</p>  
+### <p align="center">Passionate Frontend Developer - React</p>  
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevRefaul" alt="DevRefaul" /></p>
+<br>
   
 <p align="center"> <a href="https://github.com/shakilahmedatik/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevRefaul&row=1&column=6&theme=onedark" alt="DevRefaul" /></a> </p>
 
