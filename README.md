@@ -4,12 +4,22 @@
   
 
 - 🌱 I’m currently learning Redux 
-  
+
+- 🔭 I’m currently working at [Teckturt](https://www.teckturt.co.in/)    
 
 - ✉️ Reach me [refaul.islam27@gmail.com](mailto:refaul.islam27@gmail.com)  
   
 
 <br/>  
+
+
+<h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
+<p align="left">    
+<!-- <a href="https://twitter.com/shakilahmedatik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>   -->
+<a href="https://www.linkedin.com/in/refaul-islam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<!-- <a href="https://stackoverflow.com/users/11409373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11409373" height="30" width="40" /></a>   -->
+<a href="https://www.facebook.com/refaulislam.rafee.5/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a> 
+</p>  
 
 
 ## My Skill Set  
