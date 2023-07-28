@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning Redux 
 
-- 🔭 I’m currently working at [Teckturt](https://www.teckturt.co.in/)    
+- 🔭 Former Front-End Developer at [Teckturt](https://www.teckturt.co.in/)    
 
 - ✉️ Reach me [refaul.islam27@gmail.com](mailto:refaul.islam27@gmail.com)  
   
